@@ -9,7 +9,7 @@ from pprint import pprint
 from zenlog import log
 import json
 
-HTML_DIR = "bank-details/"
+HTML_DIR = "./"
 OUTFILE = "banks-info.json"
 
 def parse_file(f):
